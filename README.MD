@@ -73,6 +73,4 @@ The application will prompt you to enter an email address for verification. Foll
 
 ## License
 
-This project is licensed under the MIT License.
-
-/Leo
+MIT License
